@@ -10,3 +10,4 @@
   - This project is a hybrid recommendation system which is a combination of content-based as well as collaborative-bases recommendation system
   - Content-based filtering is a recommendation engine that recommends items by analyzing the content using Natural Language Processing
   - It shows the similar items based on the keyword and content of the text
+  - It suggests the best popular places if visitor want to decide to visit which places and also recommend similar places based on their past history or similar locations that visitor already visitor visit some locations like historical places, hill stations, beech, parks or any types of places
